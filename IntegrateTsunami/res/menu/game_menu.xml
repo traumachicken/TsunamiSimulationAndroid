@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/SET_LOCAL" android:title="@string/set_local" android:showAsAction="ifRoom"></item><item android:id="@+id/PIN_CURRENT_LOC" android:showAsAction="ifRoom" android:title="@string/pin_current_loc"></item><item android:id="@+id/CLEAR_PIN" android:showAsAction="ifRoom" android:title="@string/clear_pin"></item><item android:id="@+id/NEXT_BUILDING_MATERIAL" android:title="@string/next_building_material" android:showAsAction="ifRoom"></item><item android:id="@+id/SET_ORIGIN" android:title="@string/set_origin" android:showAsAction="ifRoom"></item>
+    
+    <item android:id="@+id/MENU_SELECT_SYNC_SENSOR" android:title="@string/sync_sensor" android:showAsAction="ifRoom"></item>
+    <item android:id="@+id/MENU_SELECT_SYNC_GPS" android:title="@string/sync_gps" android:showAsAction="ifRoom"></item>
+    
+    <item android:id="@+id/NEXT_WATER_MATERIAL" android:title="@string/next_water_material" android:showAsAction="ifRoom"></item>
+    <item android:id="@+id/MENU_SELECT_PREFERENCE" android:title="@string/preference" android:showAsAction="ifRoom"></item>
+    <item android:id="@+id/MENU_SELECT_SYNC_GROUND" android:title="@string/sync_ground" android:showAsAction="ifRoom"></item>
+    
+    
+    <item android:id="@+id/NEXT_GROUND_MATERIAL" android:title="@string/next_ground_material" android:showAsAction="ifRoom"></item>
+    
+    <item android:id="@+id/GALAXY_FIX" android:title="@string/galaxy_fix" android:showAsAction="ifRoom"></item>
+    
+    <item android:id="@+id/CAPTURE_SCREEN" android:title="@string/capture_screen" android:showAsAction="ifRoom"></item>
+    <item android:id="@+id/MINIMAP_TOGGLE" android:title="@string/minimap_toggle" android:showAsAction="ifRoom"></item>
+    
+    
+    
+    
+</menu>
